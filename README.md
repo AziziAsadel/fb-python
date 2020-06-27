@@ -1,5 +1,6 @@
 # fb-python
-![ alt text](https://github.com/AziziAsadel/fb-python/blob/master/ss.png)
+![](https://github.com/AziziAsadel/fb-python/blob/master/ss.png)
+![](https://img.shields.io/badge/Python-3.8x-white?logo=python&style=social)
 ## Requirements
 <pre>
 • requests
